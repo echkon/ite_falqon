@@ -9,6 +9,8 @@ This repository contains the numerical data and plotting scripts associated with
 
 ## Contents
 
+
+- `fig1` – Data and python plot for fig1.
 - `fig2` – Data and python plot for fig2.
 - `fig3` – Data and python plot for fig3.
 - `fig4` – Data and python plot for fig4.
@@ -31,3 +33,4 @@ To reproduce the plots, install:
 1. Clone or download this repository.  
 2. Install the required Python packages.  
 3. Run the plotting scripts
+
